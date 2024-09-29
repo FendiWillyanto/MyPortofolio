@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="327px" height="326px" viewBox="0 0 327 326" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/darts</title>
+    <g id="Icons/darts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="darts" stroke="#0D052C" stroke-width="1.5">
+            <g id="darts_board" transform="translate(14.000000, 13.000000)" fill-rule="nonzero">
+                <path d="M235.8,22.45 C308.106738,65.2248049 333.515624,157.601785 293.256174,231.338648 C252.996724,305.075511 161.549524,333.650458 86.4700042,295.954119 C11.3904841,258.257781 -20.3166287,167.848838 14.7718827,91.5157217 C49.8603941,15.1826053 139.123835,-19.6190614 216.62,12.82" id="white_circle" fill="#FFFFFF"></path>
+                <circle id="black_big_circle" fill="#1D1E5F" cx="156.19" cy="157.32" r="145.16"></circle>
+                <circle id="blue_circle" fill="#87D4FF" cx="156.19" cy="157.32" r="109.85"></circle>
+                <circle id="black_small_circle" fill="#1D1E5F" cx="156.19" cy="157.32" r="67.11"></circle>
+                <circle id="pink_circle" fill="#FF81AF" cx="156.19" cy="157.32" r="32.82"></circle>
+                <g id="line" transform="translate(169.000000, 71.000000)">
+                    <path d="M38.19,15.21 C50.7536805,23.8034899 60.9285212,35.4476093 67.76,49.05" id="Path"></path>
+                    <path d="M0.65,0.58 C11.0050828,2.06999152 21.0155545,5.37747572 30.22,10.35" id="Path"></path>
+                </g>
+                <g id="line-2" transform="translate(78.000000, 203.000000)">
+                    <path d="M46,40.33 C26.8472704,32.7519722 10.8817937,18.8201343 0.78,0.87" id="Path"></path>
+                    <path d="M78.76,46.5400113 C71.4904145,46.5436511 64.247323,45.663869 57.19,43.92" id="Path"></path>
+                </g>
+                <g id="stroke_lines" transform="translate(146.000000, 145.000000)">
+                    <g id="lines" transform="translate(4.000000, 0.000000)">
+                        <line x1="4.46" y1="0.88" x2="9.9" y2="23.76" id="Path"></line>
+                        <line x1="10.07" y1="3.42" x2="13.81" y2="19.16" id="Path"></line>
+                        <line x1="0.31" y1="4.49" x2="4.3" y2="21.22" id="Path"></line>
+                    </g>
+                    <g id="lines-2" transform="translate(0.000000, 5.000000)">
+                        <line x1="20.81" y1="1.48" x2="0.72" y2="12.09" id="Path"></line>
+                        <line x1="13.04" y1="0.08" x2="2.87" y2="5.45" id="Path"></line>
+                        <line x1="20.62" y1="7.09" x2="9.2" y2="13.12" id="Path"></line>
+                    </g>
+                </g>
+            </g>
+            <g id="arrow">
+                <g id="arrow-2">
+                    <polyline id="Path" fill-rule="nonzero" points="170.19 170.32 83.09 82.14 83.09 82.13"></polyline>
+                    <line x1="41.17" y1="39.23" x2="24.32" y2="22" id="Path"></line>
+                    <path d="M83.0900548,39 L83.0900548,82.13 L41.169855,39.23 L41.169855,1.5 C41.1641553,1.20391993 41.3353904,0.932867249 41.6052817,0.810980881 C41.8751729,0.689094512 42.1917404,0.739849239 42.41,0.94 L82,36.58 C82.6975978,37.1900471 83.0954271,38.0733012 83.0900548,39 L83.0900548,39 Z" id="Path" fill="#FF5986" fill-rule="nonzero"></path>
+                    <path d="M83.1,82.13 L41,82.13 C40.2901725,82.1266433 39.6133431,81.8298518 39.13,81.31 L0.92,40.28 C0.746629925,40.1004509 0.698596409,39.8348457 0.796775573,39.605761 C0.894954738,39.3766762 1.1207669,39.2286515 1.37,39.2299909 L41.17,39.2299909 L83.1,82.13 Z" id="Path" fill="#FFE483" fill-rule="nonzero"></path>
+                </g>
+                <g id="lines-3" transform="translate(24.000000, 19.000000)" fill-rule="nonzero">
+                    <line x1="30.48" y1="22.44" x2="30.48" y2="33.84" id="Path"></line>
+                    <line x1="30.48" y1="0.6" x2="30.48" y2="19.96" id="Path"></line>
+                    <line x1="38.49" y1="9.23" x2="38.49" y2="42.01" id="Path"></line>
+                    <line x1="46.36" y1="17.18" x2="46.36" y2="49.96" id="Path"></line>
+                    <line x1="30.48" y1="33.84" x2="0.32" y2="33.84" id="Path"></line>
+                    <line x1="38.13" y1="42.01" x2="7.97" y2="42.01" id="Path"></line>
+                    <line x1="46.36" y1="49.96" x2="16.21" y2="49.96" id="Path"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
